@@ -32,7 +32,7 @@ class eventoBaseTable extends model {
   const CREATED_AT = 'eve_created_at';
   const UPDATED_AT = 'eve_updated_at';
   const DELETED_AT = 'eve_deleted_at';
-  const _TABLE = 'evento';
+  const _TABLE = 'bdp_evento';
 
   /**
    * Configuración del sistema

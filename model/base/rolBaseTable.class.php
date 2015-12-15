@@ -13,7 +13,7 @@ class rolBaseTable extends model {
   const CREATED_AT = 'rol_created_at';
   const UPDATED_AT = 'rol_updated_at';
   const DELETED_AT = 'rol_deleted_at';
-  const _TABLE = 'rol';
+  const _TABLE = 'bdp_rol';
 
   /**
    * Configuración del sistema

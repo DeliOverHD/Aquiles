@@ -17,7 +17,7 @@ class usuarioBaseTable extends model {
   const CREATED_AT = 'usu_created_at';
   const UPDATED_AT = 'usu_updated_at';
   const DELETED_AT = 'usu_deleted_at';
-  const _TABLE = 'usuario';
+  const _TABLE = 'bdp_usuario';
 
   /**
    * Configuración del sistema

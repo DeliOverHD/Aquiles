@@ -15,7 +15,7 @@ class etiquetaBaseTable extends model {
   const CREATED_AT = 'eti_created_at';
   const UPDATED_AT = 'eti_updated_at';
   const DELETED_AT = 'eti_deleted_at';
-  const _TABLE = 'etiqueta';
+  const _TABLE = 'bdp_etiqueta';
 
   /**
    * Configuración del sistema
